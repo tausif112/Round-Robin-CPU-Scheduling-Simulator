@@ -16,7 +16,7 @@ A Python implementation of the **Round Robin CPU Scheduling Algorithm** with Gan
 
 ---
 
-# 📌 Project Overview
+## 📌 Overview
 
 This project demonstrates the implementation of the **Round Robin (RR) CPU Scheduling Algorithm**, one of the most widely used scheduling techniques in time-sharing operating systems.
 
@@ -28,7 +28,7 @@ The project was developed and tested using **Google Colaboratory (Google Colab)*
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 * Round Robin Scheduling Simulation
 * Configurable Time Quantum
@@ -40,7 +40,7 @@ The project was developed and tested using **Google Colaboratory (Google Colab)*
 
 ---
 
-# 🧠 About Round Robin Scheduling
+## 🧠 About Round Robin Scheduling
 
 Round Robin Scheduling is a preemptive CPU scheduling algorithm.
 
@@ -61,7 +61,7 @@ Each process receives CPU time in cyclic order.
 
 ---
 
-# ⚙️ Algorithm
+## ⚙️ Algorithm
 
 1. Initialize a ready queue.
 2. Assign a fixed Time Quantum.
@@ -74,7 +74,7 @@ Each process receives CPU time in cyclic order.
 
 ---
 
-# 🧮 Input Example
+## 🧮 Input Example
 
 ```python
 processes = [
@@ -89,7 +89,7 @@ time_quantum = 5
 
 ---
 
-# 📊 Output Example
+## 📊 Output Example
 
 ```text
 Gantt Chart: 0 P1 5 P2 8 P3 13 P4 15 P1 20 P3 21 P1 26 P1 31 P1 32
@@ -99,7 +99,7 @@ Average Waiting Time: 9.50
 
 ---
 
-# 📈 Gantt Chart Representation
+## 📈 Gantt Chart Representation
 
 ```text
 0     5    8    13   15   20   21   26   31   32
@@ -108,7 +108,7 @@ Average Waiting Time: 9.50
 
 ---
 
-# 📸 Google Colab Development Environment
+## 📸 Google Colab Development Environment
 
 The project was implemented and tested using Google Colaboratory.
 
@@ -118,13 +118,13 @@ The project was implemented and tested using Google Colaboratory.
 
 ---
 
-# 📸 Program Output
+## 📸 Program Output
 
 ![Output](screenshots/output.png)
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Round-Robin-CPU-Scheduling-Simulator/
@@ -142,9 +142,9 @@ Round-Robin-CPU-Scheduling-Simulator/
 
 ---
 
-# 🚀 How to Run
+## 🚀 How to Run
 
-## Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/tausif112/Round-Robin-CPU-Scheduling-Simulator.git
