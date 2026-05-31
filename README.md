@@ -150,13 +150,13 @@ Round-Robin-CPU-Scheduling-Simulator/
 git clone https://github.com/tausif112/Round-Robin-CPU-Scheduling-Simulator.git
 ```
 
-## Move to Project Folder
+### Move to Project Folder
 
 ```bash
 cd Round-Robin-CPU-Scheduling-Simulator
 ```
 
-## Run Program
+### Run Program
 
 ```bash
 python round_robin.py
@@ -164,7 +164,7 @@ python round_robin.py
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 | Technology        | Purpose                 |
 | ----------------- | ----------------------- |
@@ -175,7 +175,7 @@ python round_robin.py
 
 ---
 
-# 📋 Scheduling Parameters
+## 📋 Scheduling Parameters
 
 | Parameter       | Value       |
 | --------------- | ----------- |
@@ -186,7 +186,7 @@ python round_robin.py
 
 ---
 
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 * Arrival Time Support
 * Turnaround Time Calculation
@@ -199,10 +199,11 @@ python round_robin.py
 ---
 
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Md. Tausif Uddin**
-B.Sc. in Computer Science and Engineering (CSE)
+### Md Tausif Uddin
+
+Department of Computer Science & Engineering (CSE)  
 University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
